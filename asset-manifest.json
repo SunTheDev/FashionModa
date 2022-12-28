@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FashionModa/static/css/main.c131d18e.css",
+    "main.js": "/FashionModa/static/js/main.51bfe938.js",
+    "index.html": "/FashionModa/index.html",
+    "main.c131d18e.css.map": "/FashionModa/static/css/main.c131d18e.css.map",
+    "main.51bfe938.js.map": "/FashionModa/static/js/main.51bfe938.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c131d18e.css",
+    "static/js/main.51bfe938.js"
+  ]
+}
