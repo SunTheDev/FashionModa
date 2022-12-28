@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FashionModa/static/css/main.c131d18e.css",
-    "main.js": "/FashionModa/static/js/main.51bfe938.js",
+    "main.js": "/FashionModa/static/js/main.f160a018.js",
     "index.html": "/FashionModa/index.html",
     "main.c131d18e.css.map": "/FashionModa/static/css/main.c131d18e.css.map",
-    "main.51bfe938.js.map": "/FashionModa/static/js/main.51bfe938.js.map"
+    "main.f160a018.js.map": "/FashionModa/static/js/main.f160a018.js.map"
   },
   "entrypoints": [
     "static/css/main.c131d18e.css",
-    "static/js/main.51bfe938.js"
+    "static/js/main.f160a018.js"
   ]
 }
